@@ -5,9 +5,16 @@ Real-time chat with ionic &amp; angular + firebase
 
 -clone this repo
 
+
+
 -command line
+
 $npm install
+
 $ionic serve
+
+
+
 
 -please tell me if you have any issue
 
