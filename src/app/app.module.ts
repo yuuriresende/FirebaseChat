@@ -13,7 +13,7 @@ import { AngularFireDatabaseModule} from 'angularfire2/database';
 
 
 var firebaseConfig = {
-  apiKey: "AIzaSyAR1n6WQrW138JegUi694zPX3xIVwbBdWU",
+  apiKey: "YOUR_API_KEY_HERE",
   authDomain: "ionic-chat-starter-184a1.firebaseapp.com",
   databaseURL: "https://ionic-chat-starter-184a1.firebaseio.com",
   projectId: "ionic-chat-starter-184a1",
